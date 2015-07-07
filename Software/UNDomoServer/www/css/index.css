@@ -1,0 +1,17 @@
+/**
+ * 	CSS file for the app
+ */
+
+.button {
+	background-color: #00ff00;
+	padding: 10px;
+	margin: 5px;
+	border-color: #000;
+	border-style: solid;
+	border-width: thin;
+}
+
+.button:hover {
+	background-color: #fff;
+	color:#00f;
+}
